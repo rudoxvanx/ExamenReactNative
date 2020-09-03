@@ -1,0 +1,32 @@
+[
+ {
+   "id":1,
+  "interes":"Deportes",
+  "checked":false
+ },
+ {
+  "id":2,
+  "interes":"VideoJuegos",
+  "checked":false
+  },
+  {
+    "id":3,
+    "interes":"Música",
+    "checked":false
+  },
+  {
+    "id":4,
+    "interes":"Cocinar",
+    "checked":false
+  },
+  {
+    "id":5,
+    "interes":"Tecnologia",
+    "checked":false
+  },
+  {
+    "id":3,
+    "interes":"Idiomas",
+    "checked":false
+  }      
+]
